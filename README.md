@@ -17,7 +17,8 @@ pip install nbdev_hello_world
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+# 30
+return_multiple(5,6)
 ```
 
-    2
+    30

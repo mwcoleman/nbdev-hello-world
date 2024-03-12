@@ -5,4 +5,8 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://mwcoleman.github.io',
                 'git_url': 'https://github.com/mwcoleman/nbdev-hello-world',
                 'lib_path': 'nbdev_hello_world'},
-  'syms': {'nbdev_hello_world.core': {'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py')}}}
+  'syms': { 'nbdev_hello_world.base': { 'nbdev_hello_world.base.foo': ('base.html#foo', 'nbdev_hello_world/base.py'),
+                                        'nbdev_hello_world.base.return_multiple': ( 'base.html#return_multiple',
+                                                                                    'nbdev_hello_world/base.py'),
+                                        'nbdev_hello_world.base.return_subtraction': ( 'base.html#return_subtraction',
+                                                                                       'nbdev_hello_world/base.py')}}}
