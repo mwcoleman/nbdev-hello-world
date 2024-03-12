@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-hello-world",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "nbdev-hello-world"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-hello-world",
+    "section": "Install",
+    "text": "Install\npip install nbdev_hello_world",
+    "crumbs": [
+      "nbdev-hello-world"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-hello-world",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n# 30\nreturn_multiple(5,6)\n\n30",
+    "crumbs": [
+      "nbdev-hello-world"
+    ]
+  },
+  {
+    "objectID": "base.html",
+    "href": "base.html",
+    "title": "base",
+    "section": "",
+    "text": "source\n\nreturn_subtraction\n\n return_subtraction (a, b)\n\nReturn a-b\n\nsource\n\n\nreturn_multiple\n\n return_multiple (a, b)\n\nResturn a*b\nreturn_subtraction returns a-b… return_multiple returns a*b\n\nreturn_multiple(5,6)\n\n30\n\n\n\nreturn_subtraction(5,6)\n\n-1\n\n\nWe can also render graphics\n\nfrom IPython.display import display, SVG\n\ndisplay(SVG('&lt;svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"&gt;&lt;circle cx=\"50\" cy=\"50\" r=\"40\"/&gt;&lt;/svg&gt;'))\n\n\n\n\n\n\n\n\n\nsource\n\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "base"
+    ]
+  }
+]
